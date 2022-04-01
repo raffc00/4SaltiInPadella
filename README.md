@@ -7,13 +7,16 @@
 - Luca Bertacchi
 
 ## Tecnologie utilizzate
-
+- CSS
+- HTML
+- JavaScript
+- SCSS
 ## Ringraziamo
-Demo Images:
+- Demo Images:
 		Unsplash (unsplash.com)
-Icons:
+- Icons:
 		Font Awesome (fontawesome.io)
-Other:
+ -Other:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
