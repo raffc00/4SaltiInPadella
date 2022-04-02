@@ -3,10 +3,11 @@
     <style type="text/css"><![CDATA[
 		line
 		{
-			stroke: rgba(255,255,255,0.05);
+			stroke: rgba(255,255,255,0.25);
 			stroke-width: 1px;
 		}
     ]]></style>
+	
 
 	<line x1="1100" y1="500" x2="-1000" y2="250" />
 	<line x1="1100" y1="500" x2="-1000" y2="-100" />
