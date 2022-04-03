@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #3c575bdf;
+		color: #ffffff;
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16.5pt;
 		font-weight: bold;
@@ -1838,8 +1838,8 @@ input, select, textarea {
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
 		background-color: transparent;
-		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border: solid 2px !important;
+		border-color: #ffffffa2 !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -1872,7 +1872,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.2s ease, -webkit-transform 0.2s ease;
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
-			background: #ffffff;
+			background: #fb8500;
 			border-radius: 3em;
 			content: '';
 			height: 100%;
@@ -1951,7 +1951,7 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			border-color: rgba(255, 255, 255, 0.55) !important;
+			border-color: #ffb803a9 !important;
 		}
 
 			input[type="submit"]:hover:after,
@@ -3250,11 +3250,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #493382;
+			background-color: #023047;
 		}
 
 		.wrapper.style2 {
-			background-color: #5052b5;
+			background-color: #126782;
 		}
 
 		.wrapper.style2-alt {
@@ -3899,8 +3899,10 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.5em;
+			font-family: Georgia, 'Times New Roman', Times, serif;
 			text-align: center;
 			text-shadow: #ffffff 0 3px 7px;
+			color: #3c575bdf
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3927,3 +3929,14 @@ input, select, textarea {
 			}
 
 		}
+	
+	#one h2{
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		text-shadow: #323131cc -7.5px 7.5px 10px;
+	}
+	#one p{
+		color: #ffffff;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		text-shadow: #323131cc -3px 3px 7px;
+		
+	}
