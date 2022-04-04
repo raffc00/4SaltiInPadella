@@ -48,9 +48,9 @@
         },
 
         'expiresIn': 30,
-        'buttonBgColor': '#d35400',
+        'buttonBgColor': '#fb8500',
         'buttonTextColor': '#fff',
-        'noticeBgColor': '#000',
+        'noticeBgColor': '#0000007d',
         'noticeTextColor': '#fff',
         'linkColor': '#009fdd'
     };
@@ -295,11 +295,5 @@
         return source;
     }
 
-    /* test-code */
-    cookieNoticeJS.extendDefaults = extendDefaults;
-    cookieNoticeJS.clearInstance = function () {
-        instance = undefined;
-    };
-    /* end-test-code */
 
 }());
