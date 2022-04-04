@@ -48,9 +48,9 @@
         },
 
         'expiresIn': 30,
-        'buttonBgColor': '#d35400',
+        'buttonBgColor': '#fb8500',
         'buttonTextColor': '#fff',
-        'noticeBgColor': '#000',
+        'noticeBgColor': '#ffffff',
         'noticeTextColor': '#fff',
         'linkColor': '#009fdd'
     };
