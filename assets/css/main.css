@@ -1841,7 +1841,7 @@ input, select, textarea {
 		background-color: transparent;
 		border: solid 2px !important;
 		border-color: #ffffffa2 !important;
-		border-radius: 3em;
+		border-radius: 0.86em;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
@@ -1851,7 +1851,7 @@ input, select, textarea {
 		letter-spacing: 0.25em;
 		line-height: 4.75em;
 		outline: 0;
-		padding: 0 3.75em;
+		padding: 0 2.75em;
 		position: relative;
 		text-align: center;
 		text-decoration: none;
@@ -1874,7 +1874,7 @@ input, select, textarea {
 			-ms-transition: opacity 0.2s ease, -ms-transform 0.2s ease;
 			transition: opacity 0.2s ease, transform 0.2s ease;
 			background: #fb8500;
-			border-radius: 3em;
+			border-radius: 0.86em;
 			content: '';
 			height: 100%;
 			left: 0;
@@ -3255,7 +3255,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #126782;
+			background-color: #3f37c9;
+			background-image: linear-gradient(to right, rgba(255, 255, 255, 0),#0000009e,#000000bd);
 		}
 
 		.wrapper.style2-alt {
@@ -3532,6 +3533,7 @@ input, select, textarea {
 	#sidebar {
 		padding: 1em 1em 0.5em 1em ;
 		background: #2f086d;
+		background-image: linear-gradient(to right, #ffffff00,#0000007f);
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3818,6 +3820,7 @@ input, select, textarea {
 				text-align: center;
 				top: 0;
 				width: 100%;
+				background-image: linear-gradient(to bottom, #ffffff00,#0000007f);
 			}
 
 				#sidebar > .inner {
@@ -3939,12 +3942,12 @@ input, select, textarea {
 		}
 	
 	#one h2{
-		font-family: Georgia, 'Times New Roman', Times, serif;
-		text-shadow: #323131cc -7.5px 7.5px 10px;
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
 	}
 	#one p{
 		color: #ffffff;
-		font-family: Georgia, 'Times New Roman', Times, serif;
-		text-shadow: #323131cc -3px 3px 7px;
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 3px 3px 4px;
 		
 	}

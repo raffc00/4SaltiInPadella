@@ -185,7 +185,7 @@
         noticeStyle.right = '0';
         noticeStyle.background = bgColor;
         noticeStyle.color = textColor;
-        noticeStyle["z-index"] = '999';
+        noticeStyle["z-index"] = '99999';
         noticeStyle.padding = '10px 5px';
         noticeStyle["text-align"] = 'center';
         noticeStyle["font-size"] = "12px";
