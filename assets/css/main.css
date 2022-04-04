@@ -3876,6 +3876,10 @@ input, select, textarea {
 						transition: max-width 0.2s ease;
 						max-width: 0;
 					}
+					#sidebar > .inner > .logo{
+						width: 90;
+						margin-right: 1em;
+					}
 
 		}
 
