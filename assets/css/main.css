@@ -189,9 +189,10 @@ input, select, textarea {
 
 	h1 {
 		font-size: 6em;
-		font-family: Script MT, Script Std, cursive;
-		text-align: center;
-		text-shadow: #6c6f70c4 0px 10px 10px;
+		font-family: BankGothic Lt BT;
+		line-height: 1em;
+		text-align: left;
+		text-shadow: #2c2c2dc4 10px 10px 10px;
 	}
 
 		h1.major {
@@ -242,8 +243,8 @@ input, select, textarea {
 
 		h1 {
 			font-size: 3em;
-			font-family: Script MT, Script Std, cursive;
-			text-align: center;
+			font-family: BankGothic Lt BT;
+			text-align: left;
 		}
 
 		h2 {
@@ -3246,7 +3247,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #219ebc;
+			background-color: #7209b7;
 		}
 
 		.wrapper.style1-alt {
@@ -3530,7 +3531,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 1em 1em 0.5em 1em ;
-		background: #023047;
+		background: #2f086d;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3897,7 +3898,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg") ,linear-gradient(to bottom right, rgba(255, 255, 255, 0),#ffffffd6);
+		background-image: url("images/intro.svg") ,linear-gradient(to bottom right, rgba(255, 255, 255, 0),#000000d6);
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
@@ -3906,10 +3907,10 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.5em;
-			font-family: Georgia, 'Times New Roman', Times, serif;
-			text-align: center;
-			text-shadow: #ffffff 0 3px 7px;
-			color: #3c575bdf
+			font-family: BankGothic Lt BT;
+			text-align: left;
+			text-shadow: #2c2c2dc4 10px 10px 10px;
+			color: #ffffff
 		}
 
 			@media screen and (max-width: 980px) {
@@ -3924,7 +3925,7 @@ input, select, textarea {
 
 				#intro p {
 					font-size: 1em;
-					text-align: center;
+					text-align: left;
 				}
 
 			}
