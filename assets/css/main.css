@@ -775,7 +775,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 0 0 0 1.5em;
+						padding: 0 0 0 6em;
 					}
 
 					.row.gtr-uniform {
@@ -2559,7 +2559,7 @@ input, select, textarea {
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #ffb703;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3264,7 +3264,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #b74e91;
+			background-color: #4361ee;
+			background-image: linear-gradient(to right, #0000009e, rgba(18, 18, 18, 0.362),#000000bd);
 		}
 
 		.wrapper.style3-alt {
