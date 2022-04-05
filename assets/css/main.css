@@ -119,7 +119,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: Arial, Helvetica, sans-serif;
+		font-family: BankGothic Lt BT;
 		font-size: 16.5pt;
 		font-weight: bold;
 		line-height: 1.75;
@@ -3251,15 +3251,17 @@ input, select, textarea {
 
 		.wrapper.style1 {
 			background-color: #7209b7;
+			background-image: linear-gradient(to right, #0000009e, rgba(18, 18, 18, 0.362),#000000bd);
 		}
 
 		.wrapper.style1-alt {
-			background-color: #013a5e;
+			background-color: #480ca8;
+			background-image: linear-gradient(to right, #0000009e, rgba(18, 18, 18, 0.362),#000000bd);
 		}
 
 		.wrapper.style2 {
 			background-color: #3f37c9;
-			background-image: linear-gradient(to right, rgba(255, 255, 255, 0),#00000049,#000000bd);
+			background-image: linear-gradient(to right, #0000009e, rgba(18, 18, 18, 0.362),#000000bd);
 		}
 
 		.wrapper.style2-alt {
@@ -3971,6 +3973,31 @@ input, select, textarea {
 	}
 	
 	#three h2{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#four h2{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}	
+	#four p{
+		color: #ffffff;
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#four h3{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#four span{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#four label{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#four textarea{
 		font-family: BankGothic Lt BT;
 		text-shadow: #2c2c2dc4 6px 6px 6px;
 	}
