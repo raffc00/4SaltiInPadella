@@ -3007,6 +3007,8 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
+		justify-content: space-between;
+		min-height: 22.5em;
 
 	}
 
