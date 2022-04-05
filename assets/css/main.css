@@ -3007,7 +3007,7 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+
 	}
 
 		body.is-ie .spotlights > section {
