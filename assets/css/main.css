@@ -5,7 +5,7 @@
 */
 @font-face {
 	font-family: BankGothic Lt BT;
-	src: url("bank-gothic-light-bt.ttf");
+	src: url("../webfonts/bank-gothic-light-bt.ttf");
 }
 
 html, body, div, span, applet, object,
