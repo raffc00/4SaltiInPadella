@@ -4013,3 +4013,32 @@ input, select, textarea {
 		font-family: BankGothic Lt BT;
 		text-shadow: #2c2c2dc4 6px 6px 6px;
 	}
+	#oneone h2{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#oneone p{
+		color: #ffffff;
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 3px 3px 4px;
+		
+	}
+	#twotwo h2{
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 6px 6px 6px;
+	}
+	#twotwo p{
+		color: #ffffff;
+		font-family: BankGothic Lt BT;
+		text-shadow: #2c2c2dc4 3px 3px 4px;
+		
+	}
+	#oneone section{
+		background-color: #354fab;
+		background-image: linear-gradient(to bottom,  rgba(18, 18, 18, 0.514),#000000bd);
+	}
+	#twotwo section{
+		background-color: #4361ee;
+		background-image: linear-gradient(to bottom,  rgba(18, 18, 18, 0.514),#000000bd);
+	}
+	
