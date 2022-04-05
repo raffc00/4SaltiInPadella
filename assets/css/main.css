@@ -3,6 +3,10 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+@font-face {
+	font-family: BankGothic Lt BT;
+	src: url("bank-gothic-light-bt.ttf");
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
