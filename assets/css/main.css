@@ -3976,6 +3976,7 @@ input, select, textarea {
 	#three h2{
 		font-family: BankGothic Lt BT;
 		text-shadow: #2c2c2dc4 6px 6px 6px;
+		margin: 0 0 1em 0;
 	}
 	#four h2{
 		font-family: BankGothic Lt BT;
